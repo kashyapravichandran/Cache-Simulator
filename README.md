@@ -8,7 +8,7 @@ Apart from this, the program also simulates the working of the L1 n-way set asso
 
 ## Usage
 
-In a linus machine run make and the following command: 
+In a linux machine run make and the following command: 
 
             ./sim_cache <block size> <L1 Size> <L1 Associativity> <L2 Size> <L2 Associativity> <Number of Data Block in a sector (L2)> <Number of tags> <Trace File>
             
